@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ColorContrastChecker/static/css/main.78143f50.css",
+    "main.js": "/ColorContrastChecker/static/js/main.237bda64.js",
+    "static/js/592.25713191.chunk.js": "/ColorContrastChecker/static/js/592.25713191.chunk.js",
+    "index.html": "/ColorContrastChecker/index.html",
+    "main.78143f50.css.map": "/ColorContrastChecker/static/css/main.78143f50.css.map",
+    "main.237bda64.js.map": "/ColorContrastChecker/static/js/main.237bda64.js.map",
+    "592.25713191.chunk.js.map": "/ColorContrastChecker/static/js/592.25713191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78143f50.css",
+    "static/js/main.237bda64.js"
+  ]
+}
